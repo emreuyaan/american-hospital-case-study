@@ -1,4 +1,4 @@
-# American Hospital Case Study — Kullanıcı Yönetim Paneli
+# American Hospital Case Study
 
 Sağlık kuruluşları için kullanıcı rollerini ve izinlerini yönetmeye yönelik bir case study.
 
